@@ -1,9 +1,11 @@
 brew install bash-completion
+brew install brew-cask-completion
 brew install dnsmasq
 brew install gdbm
 brew install git
 brew install jq
 brew install maven
+brew install maven-completion
 brew install oniguruma
 brew install openssl
 brew install pip-completion
