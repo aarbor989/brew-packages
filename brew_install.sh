@@ -13,3 +13,4 @@ brew install readline
 brew install sqlite
 brew install wget
 brew install xz
+brew cask install utorrent
