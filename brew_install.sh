@@ -23,6 +23,7 @@ brew cask install flycut
 brew cask install github-desktop
 brew cask install google-drive
 brew cask install intellij-idea
+brew cask install iterm2
 brew cask install java
 brew cask install mysqlworkbench
 brew cask install path-finder
