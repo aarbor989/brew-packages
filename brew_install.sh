@@ -2,17 +2,14 @@ brew install bash-completion
 brew install brew-cask-completion
 brew install dnsmasq
 brew install gdbm
-brew install ghostscript
 brew install git
-brew install jpeg
 brew install jq
-brew install libtiff
-brew install little-cms2
 brew install makedepend
 brew install maven
 brew install maven-completion
 brew install oniguruma
 brew install openssl
+brew install pcre
 brew install pip-completion
 brew install python
 brew install python3
@@ -20,6 +17,10 @@ brew install readline
 brew install sqlite
 brew install wget
 brew install xz
+brew install z
+brew install zsh
+brew install zsh-syntax-highlighting
+brew cask install beyond-compare
 brew cask install cyberduck
 brew cask install dropbox
 brew cask install eclipse-jee
@@ -33,7 +34,6 @@ brew cask install mysqlworkbench
 brew cask install path-finder
 brew cask install pg-commander
 brew cask install plex-media-server
-brew cask install scribus
 brew cask install sequel-pro
 brew cask install slack
 brew cask install sourcetree
